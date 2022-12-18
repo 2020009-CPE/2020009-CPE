@@ -1,6 +1,6 @@
 <h2 align="center"> Kon'nichiwa </h2>
 
-<br>
+
    
 <h2 align="center">👋 I’m Neale Oliva</h2>
 
