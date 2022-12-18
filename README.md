@@ -1,5 +1,5 @@
-👋 Hi, I’m Neale Oliva
-👀 I’m interested in web programming
+👋 Hi, I’m Neale Oliva <h>
+👀 I’m interested in web programming <h>
 🌱 I’m currently learning python and java
 
 <!--
