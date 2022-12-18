@@ -1,4 +1,4 @@
-<h2 align="center"> Hello! Welcome to my Profile </h2>
+<center>  Hello! Welcome to my Profile </center> 
 
 
    
