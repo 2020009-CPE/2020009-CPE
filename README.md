@@ -1,10 +1,9 @@
-👋 Hi, I’m Neale Oliva <h>
-👀 I’m interested in web programming <h>
-🌱 I’m currently learning python and java
+<h2 align="center"> Kon'nichiwa </h2>
 
-<!--
-**2020009-CPE/2020009-CPE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+   
+<h2 align="center">👋 I’m Neale Oliva</h2>
+
+<h2 align="center">👀 I’m interested in learning Web Programming</h2>
 
 
-
--->
