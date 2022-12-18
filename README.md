@@ -1,9 +1,9 @@
-<h2 align="center"> Kon'nichiwa </h2>
+<h2 align="center"> Hello! Welcome to my Profile </h2>
 
 
    
-\n👋 I’m Neale Oliva</h2>
+👋 I’m Neale Oliva</h2>
 
-\n👀 I’m interested in learning Web Programming
+👀 I’m interested in learning Web Programming
 
 
